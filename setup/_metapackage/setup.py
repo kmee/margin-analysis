@@ -13,6 +13,7 @@ setuptools.setup(
         'odoo-addon-product_margin_classification>=16.0dev,<16.1dev',
         'odoo-addon-product_replenishment_cost>=16.0dev,<16.1dev',
         'odoo-addon-product_standard_margin>=16.0dev,<16.1dev',
+        'odoo-addon-product_standard_margin_security>=16.0dev,<16.1dev',
         'odoo-addon-sale_margin_delivered>=16.0dev,<16.1dev',
         'odoo-addon-sale_margin_delivered_dropshipping>=16.0dev,<16.1dev',
         'odoo-addon-sale_margin_delivered_security>=16.0dev,<16.1dev',
